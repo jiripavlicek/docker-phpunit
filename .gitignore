@@ -1,0 +1,5 @@
+files/.idea/
+files/src/
+!files/src/Main.php
+files/tests/
+!files/tests/MainTest.php

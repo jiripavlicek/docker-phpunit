@@ -1,9 +1,11 @@
 <?php
 
-class Main {
+class Main
+{
 
-  public function method() {
-    return true;
-  }
+    public function method()
+    {
+        return true;
+    }
 
 }
