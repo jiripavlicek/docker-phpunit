@@ -8,7 +8,7 @@
 
 ## How to run it
 
-* `docker run -t -i -v $(pwd)/files:/mnt/tests jiripavlicek/docker-phpunit
+* `docker run -t -i -v $(pwd)/files:/mnt/tests jiripavlicek/docker-phpunit`
 
 ## How to edit tests/code
 
